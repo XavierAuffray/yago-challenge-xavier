@@ -1,0 +1,2 @@
+class Nacebel < ApplicationRecord
+end
